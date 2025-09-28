@@ -24,9 +24,6 @@ You can move the tiles with your arrow keys and try to reach **2048**!
 2.Open index.html in your browser.
 That’s it! 🎉
 
-2. In **“Future Improvements”**, use `-` dashes for the list instead of plain text.  
-
-
 
 ## 🧭 Future Improvements
 - Add restart button  
