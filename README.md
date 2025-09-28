@@ -26,8 +26,8 @@ That’s it! 🎉
 
 2. In **“Future Improvements”**, use `-` dashes for the list instead of plain text.  
 
-✅ Correct version:  
-```markdown
+
+
 ## 🧭 Future Improvements
 - Add restart button  
 - Add high score tracking  
