@@ -6,18 +6,18 @@ You can move the tiles with your arrow keys and try to reach **2048**!
 ## 🎮 Live Demo
 👉 [Play the game here](https://selty-tech.github.io/2048.01/)
 
-## ✨ Features
+##  Features
 - Playable in the browser (no setup needed)
 - Arrow key controls
 - Score tracking
 - Different tile colors based on values
 
-## 📦 Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-## 🚀 How to Run Locally
+##   How to Run Locally
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Selty-tech/2048.01.git
@@ -25,7 +25,7 @@ You can move the tiles with your arrow keys and try to reach **2048**!
 That’s it! 🎉
 
 
-## 🧭 Future Improvements
+##  Future Improvements
 - Add restart button  
 - Add high score tracking  
 - Add a “Game Over” screen  
